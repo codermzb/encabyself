@@ -2,7 +2,7 @@
 // import VueRouter from 'vue-router'
 // Vue.use(VueRouter)
 //
-// const Home = () => import('@/views/home/Home.vue')
+// const Home = () => import('@/views/home/VTemplate.vue')
 // const Find = () => import('@/views/find/Find.vue')
 // const Address = () => import('@/views/address/Address.vue')
 // const Set = () => import('@/views/set/Set.vue')
